@@ -16,4 +16,7 @@ d = { 'settings': { 'branch': 'main',
                                       'nbdev_tutorials.deck.Deck.__init__': ('deck.html#deck.__init__', 'nbdev_tutorials/deck.py'),
                                       'nbdev_tutorials.deck.Deck.__len__': ('deck.html#deck.__len__', 'nbdev_tutorials/deck.py'),
                                       'nbdev_tutorials.deck.Deck.__str__': ('deck.html#deck.__str__', 'nbdev_tutorials/deck.py'),
-                                      'nbdev_tutorials.deck.Deck.pop': ('deck.html#deck.pop', 'nbdev_tutorials/deck.py')}}}
+                                      'nbdev_tutorials.deck.Deck.pop': ('deck.html#deck.pop', 'nbdev_tutorials/deck.py'),
+                                      'nbdev_tutorials.deck.Deck.remove': ('deck.html#deck.remove', 'nbdev_tutorials/deck.py'),
+                                      'nbdev_tutorials.deck.Deck.shuffle': ('deck.html#deck.shuffle', 'nbdev_tutorials/deck.py'),
+                                      'nbdev_tutorials.deck.draw_n': ('deck.html#draw_n', 'nbdev_tutorials/deck.py')}}}
